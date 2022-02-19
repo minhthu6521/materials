@@ -12,3 +12,14 @@
 - `{m}` | Matches the expression to its left m times, and not less.
 - `{m,n}` | Matches the expression to its left m to n times, and not less.
 - `{m,n}?` | Matches the expression to its left m times, and ignores n. See ? above.
+
+## CHARACTER CLASSES (A.K.A. SPECIAL SEQUENCES)
+- \w | Matches alphanumeric characters, which means a-z, A-Z, and 0-9. It also matches the underscore, _.
+- \d | Matches digits, which means 0-9.
+- \D | Matches any non-digits.
+- \s | Matches whitespace characters, which include the \t, \n, \r, and space characters.
+- \S | Matches non-whitespace characters.
+- \b | Matches the boundary (or empty string) at the start and end of a word, that is, between \w and \W.
+- \B | Matches where \b does not, that is, the boundary of \w characters.
+- \A | Matches the expression to its right at the absolute start of a string whether in single or multi-line mode.
+- \Z | Matches the expression to its left at the absolute end of a string whether in single or multi-line mode.
