@@ -1,0 +1,15 @@
+# Metalearning: First draw a map
+- Answer these questions: What, How, Why
+  - **Why** are you learning?
+    - Instrumental learning project
+    - Intrinsic project
+  - **What**?
+    - *Concepts*: anything that needs to be understood
+    - *Facts*: need to be memorized
+    - *Procedure*: need to be practiced
+  - **How**?
+    - Benchmarking - find a common way which people learn
+    - Emphasize/Exclude method
+  - **How much planning should you do?**
+    - 10% rule
+    - Diminishing returns & marginal benefit calculation
